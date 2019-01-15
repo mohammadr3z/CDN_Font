@@ -21,3 +21,12 @@ Files are automatically optimized.
 
 
 <code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/e014d6a3858750405c76cad9e3cb37680f248ceb/font.css); </code>
+
+-----------------------------------------------------------------------------
+
+No traffic limits or throttling. Files are served via Super Fast Global CDN.
+
+
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/master/font.css); </code>
+
+
