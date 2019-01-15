@@ -10,9 +10,9 @@ font-family: iransans
 New changes you push to GitHub will be reflected within minutes.
 
 Excessive traffic will be throttled.
-
+<code>
 @import url(https://raw.githack.com/mohammadr3z/CDN_Font/master/font.css);
-
+</code>
 -----------------------------------------------------------------------------
 
 No traffic limits or throttling. Files are served via CloudFlare's CDN.
