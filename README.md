@@ -1,9 +1,11 @@
-# Font load from gitub
-add this for load font
+# Loading font from github
+Just add the following code in the css file format
 
-font-family: iranyekan
+Font family to call:
 
-font-family: iransans
+iranyekan
+
+iransans
 
 -----------------------------------------------------------------------------
 
