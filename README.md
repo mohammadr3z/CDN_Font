@@ -2,6 +2,7 @@
 add this for load font
 
 font-family: iranyekan
+
 font-family: IRANSans
 
 
