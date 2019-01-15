@@ -23,4 +23,4 @@ Use a specific tag or commit hash in the URL (not a branch). Files are cached pe
 
 The catch: this is a free service, so there are no uptime or support guarantees.
 
-@import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/1de9d898448046a52a6ebb793995a174b4f26f78/font.css);
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/1de9d898448046a52a6ebb793995a174b4f26f78/font.css); </code>
