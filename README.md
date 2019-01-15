@@ -20,4 +20,4 @@ No traffic limits or throttling. Files are served via CloudFlare's CDN.
 Files are automatically optimized.
 
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/1de9d898448046a52a6ebb793995a174b4f26f78/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/e32aa934f8ae27e7ca099348d03a4aae70b71dcb/font.css); </code>
