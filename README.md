@@ -1,4 +1,4 @@
-# Loading font from github
+# Loading font from CDN
 Just add the following code in the css file format
 
 Font family to call:
