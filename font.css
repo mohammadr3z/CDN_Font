@@ -140,11 +140,11 @@
 
 @font-face {
     font-family: aviny;
-    src: url('font/Aviny.eot');
-    src: url('font/Aviny.eot?#iefix') format('embedded-opentype'),
-        url('font/Aviny.woff2') format('woff2'),
-        url('font/Aviny.woff') format('woff'),
-        url('font/Aviny.ttf') format('truetype');
+    src: url('font/Aviny/Aviny.eot');
+    src: url('font/Aviny/Aviny.eot?#iefix') format('embedded-opentype'),
+        url('font/Aviny/Aviny.woff2') format('woff2'),
+        url('font/Aviny/Aviny.woff') format('woff'),
+        url('font/Aviny/Aviny.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
