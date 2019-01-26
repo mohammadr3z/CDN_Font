@@ -137,3 +137,15 @@
          url('font/IRANSans/IRANSansWeb.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
          url('font/IRANSans/IRANSansWeb.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: aviny;
+    src: url('font/Aviny.eot');
+    src: url('font/Aviny.eot?#iefix') format('embedded-opentype'),
+        url('font/Aviny.woff2') format('woff2'),
+        url('font/Aviny.woff') format('woff'),
+        url('font/Aviny.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
