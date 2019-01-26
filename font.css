@@ -149,3 +149,26 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: daal;
+    src: url('font/Daal/Daal.eot');
+    src: url('font/Daal/Daal.eot?#iefix') format('embedded-opentype'),
+        url('font/Daal/Daal.woff2') format('woff2'),
+        url('font/Daal/Daal.woff') format('woff'),
+        url('font/Daal/Daal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: daal;
+    src: url('font/Daal/Daal-Black.eot');
+    src: url('font/Daal/Daal-Black.eot?#iefix') format('embedded-opentype'),
+        url('font/Daal/Daal-Black.woff2') format('woff2'),
+        url('font/Daal/Daal-Black.woff') format('woff'),
+        url('font/Daal/Daal-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
