@@ -31,6 +31,6 @@ Files are automatically optimized.
 No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
 
-<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/master/font.css); </code>
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/235d929a/font.css); </code>
 
 
