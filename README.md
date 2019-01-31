@@ -3,7 +3,7 @@ Just add the following code in the css file format
 
 Font family to call:
 
-<b>iranyekan</b>
+<b>'iranyekan'</b>
 
 <b>iransans</b>
 
