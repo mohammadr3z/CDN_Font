@@ -25,7 +25,12 @@ Gitcdn
 
 <code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/f385b42abd7c51f4ee339c73f4b605eff9096a4b/font.css); </code>
 
+-----------------------------------------------------------------------------
+Staticaly
 
+No traffic limits or throttling. Files are served via Super Fast Global CDN.
+
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/ed54dedd/font.css); </code>
 
 
 
