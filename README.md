@@ -14,13 +14,6 @@ Font family to call:
 <b>aviny</b>
 
 -----------------------------------------------------------------------------
-<b>Githack</b>
-
-Excessive traffic will be throttled.
-
-<code> @import url(https://raw.githack.com/mohammadr3z/CDN_Font/master/font.css); </code>
-
------------------------------------------------------------------------------
 <b>Gitcdn</b>
 
 <code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/f385b42abd7c51f4ee339c73f4b605eff9096a4b/font.css); </code>
