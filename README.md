@@ -5,28 +5,28 @@ Font family to call:
 
 <b>iranyekan</b>
 
-iransans
+<b>iransans</b>
 
-iransansdn
+<b>iransansdn</b>
 
-daal
+<b>daal</b>
 
-aviny
+<b>aviny</b>
 
 -----------------------------------------------------------------------------
-Githack
+<b>Githack</b>
 
 Excessive traffic will be throttled.
 
 <code> @import url(https://raw.githack.com/mohammadr3z/CDN_Font/master/font.css); </code>
 
 -----------------------------------------------------------------------------
-Gitcdn
+<b>Gitcdn</b>
 
 <code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/f385b42abd7c51f4ee339c73f4b605eff9096a4b/font.css); </code>
 
 -----------------------------------------------------------------------------
-Staticaly
+<b>Staticaly</b>
 
 No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
