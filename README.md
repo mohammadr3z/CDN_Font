@@ -23,8 +23,8 @@ Excessive traffic will be throttled.
 -----------------------------------------------------------------------------
 Gitcdn
 
-<code> @import url(https://gitcdn.xyz/repo/mohammadr3z/CDN_Font/master/font.css); </code>
-
+<code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/f385b42abd7c51f4ee339c73f4b605eff9096a4b/font.css
+); </code>
 
 
 
