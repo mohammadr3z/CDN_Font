@@ -27,3 +27,12 @@ No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
 
 
+
+-----------------------------------------------------------------------------
+Minify
+
+<b>Staticaly</b>
+
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/master/font-minifier.css); </code>
+
+
