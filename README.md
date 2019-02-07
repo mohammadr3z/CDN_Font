@@ -1,5 +1,5 @@
 # Loading web font through CDN
-just add the following code to style.css
+just add the following code to *.css
 
 Font family:
 
