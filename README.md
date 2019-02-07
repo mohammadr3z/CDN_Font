@@ -1,4 +1,4 @@
-# Loading font from CDN
+# Loading web font through CDN
 Just add the following code in the css file format
 
 Font family to call:
@@ -24,8 +24,6 @@ Font family to call:
 No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
 <code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/ed54dedd/font.css); </code>
-
-
 
 
 -----------------------------------------------------------------------------
