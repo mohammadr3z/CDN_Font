@@ -1,7 +1,7 @@
 # Loading web font through CDN
 Just add the following code in the css file format
 
-Font family to call:
+Font family:
 
 <b>iranyekan</b>
 
