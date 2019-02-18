@@ -16,9 +16,11 @@ Font family:
 <b>yekanbakh</b>
 
 -----------------------------------------------------------------------------
-<b>Github</b>
+<b>Githack</b>
 
-<code> @import url(https://raw.githubusercontent.com/mohammadr3z/CDN_Font/master/font.css); </code>
+<code> @import url(https://raw.githack.com/mohammadr3z/CDN_Font/master/font.css); </code>
+
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/d636816326e50f288053c0148e9e3f29e911e509/font.css); </code>
 
 -----------------------------------------------------------------------------
 <b>Staticaly</b>
