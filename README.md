@@ -16,6 +16,11 @@ Font family:
 <b>yekanbakh</b>
 
 -----------------------------------------------------------------------------
+<b>Github</b>
+
+https://raw.githubusercontent.com/mohammadr3z/CDN_Font/master/font.css
+
+-----------------------------------------------------------------------------
 <b>Gitcdn</b>
 
 <code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/f385b42abd7c51f4ee339c73f4b605eff9096a4b/font.css); </code>
