@@ -204,3 +204,69 @@
 }
 
 
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Medium.eot');
+    src: url('YekanBakh/YekanBakh-Medium.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Medium.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Medium.woff') format('woff'),
+        url('YekanBakh/YekanBakh-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Bold.eot');
+    src: url('YekanBakh/YekanBakh-Bold.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Bold.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Bold.woff') format('woff'),
+        url('YekanBakh-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Regular.eot');
+    src: url('YekanBakh/YekanBakh-Regular.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Regular.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Regular.woff') format('woff'),
+        url('YekanBakh/YekanBakh-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Heavy.eot');
+    src: url('YekanBakh/YekanBakh-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Heavy.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Heavy.woff') format('woff'),
+        url('YekanBakh/YekanBakh-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Light.eot');
+    src: url('YekanBakh/YekanBakh-Light.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Light.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Light.woff') format('woff'),
+        url('YekanBakh/YekanBakh-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekanbakh';
+    src: url('YekanBakh/YekanBakh-Fat.eot');
+    src: url('YekanBakh/YekanBakh-Fat.eot?#iefix') format('embedded-opentype'),
+        url('YekanBakh/YekanBakh-Fat.woff2') format('woff2'),
+        url('YekanBakh/YekanBakh-Fat.woff') format('woff'),
+        url('YekanBakh/YekanBakh-Fat.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
