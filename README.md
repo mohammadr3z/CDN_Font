@@ -18,7 +18,7 @@ Font family:
 -----------------------------------------------------------------------------
 <b>Github</b>
 
-https://raw.githubusercontent.com/mohammadr3z/CDN_Font/master/font.css
+<code> @import url(https://raw.githubusercontent.com/mohammadr3z/CDN_Font/master/font.css); </code>
 
 -----------------------------------------------------------------------------
 <b>Gitcdn</b>
@@ -30,14 +30,6 @@ https://raw.githubusercontent.com/mohammadr3z/CDN_Font/master/font.css
 
 No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
-<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/ed54dedd/font.css); </code>
-
-
------------------------------------------------------------------------------
-Minify
-
-<b>Staticaly</b>
-
-<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/master/font-minifier.css); </code>
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/master/font.css); </code>
 
 
