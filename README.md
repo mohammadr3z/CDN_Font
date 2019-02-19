@@ -20,7 +20,7 @@ Font family:
 
 <code> @import url(https://raw.githack.com/mohammadr3z/CDN_Font/master/font.css); </code>
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/1141ccb789cea013e96c69dc89de05571e364bbf/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/c8fe36af8b2efd7fa2c9b7934e3c4caebc812412/font.css); </code>
 
 <code> @import url(https://gitcdn.xyz/cdn/mohammadr3z/CDN_Font/d53d1c5c0f5cc71fd3b0a7556e5e6494886bc55d/font.css); </code>
 
