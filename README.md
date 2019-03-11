@@ -31,3 +31,4 @@ No traffic limits or throttling. Files are served via Super Fast Global CDN.
 <code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/1141ccb7/font.css); </code>
 
 
+d
