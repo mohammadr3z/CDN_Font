@@ -283,3 +283,33 @@
     font-weight: 800;
     font-style: normal;
 }
+@font-face {
+    font-family: anjoman;
+    src: url('font/Anjoman/AnjomanFaNum-Light.eot');
+    src: url('font/Anjoman/AnjomanFaNum-Light.eot?#iefix') format('embedded-opentype'),
+        url('font/Anjoman/AnjomanFaNum-Light.woff2') format('woff2'),
+        url('font/Anjoman/AnjomanFaNum-Light.woff') format('woff'),
+        url('font/Anjoman/AnjomanFaNum-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: anjoman;
+    src: url('font/Anjoman/AnjomanFaNum-Regular.eot');
+    src: url('font/Anjoman/AnjomanFaNum-Regular.eot?#iefix') format('embedded-opentype'),
+        url('font/Anjoman/AnjomanFaNum-Regular.woff2') format('woff2'),
+        url('font/Anjoman/AnjomanFaNum-Regular.woff') format('woff'),
+        url('font/Anjoman/AnjomanFaNum-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: anjoman;
+    src: url('font/Anjoman/AnjomanFaNum-Bold.eot');
+    src: url('font/Anjoman/AnjomanFaNum-Bold.eot?#iefix') format('embedded-opentype'),
+        url('font/Anjoman/AnjomanFaNum-Bold.woff2') format('woff2'),
+        url('font/Anjoman/AnjomanFaNum-Bold.woff') format('woff'),
+        url('font/Anjoman/AnjomanFaNum-Bold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: bold;
+}
