@@ -3,19 +3,21 @@ just add the following code to *.css
 
 Font family:
 
-<b>iranyekan</b>
+<b>IRANYekan</b>
 
-<b>iransans</b>
+<b>IRANSans</b>
 
-<b>iransansdn</b>
+<b>IRANSansFN</b>
 
-<b>daal</b>
+<b>IRANSansDN</b>
 
-<b>aviny</b>
+<b>Daal</b>
 
-<b>yekanbakh</b>
+<b>Aviny</b>
 
-<b>anjoman</b>
+<b>Yekanbakh</b>
+
+<b>Anjoman</b>
 
 -----------------------------------------------------------------------------
 <b>Githack</b>
