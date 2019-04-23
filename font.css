@@ -1,5 +1,5 @@
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: bold;
 	src: url('font/IRANYekan/iranyekanwebboldfanum.eot');
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 100;
 	src: url('font/IRANYekan/iranyekanwebthinfanum.eot');
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 300;
 	src: url('font/IRANYekan/iranyekanweblightfanum.eot');
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: normal;
 	src: url('font/IRANYekan/iranyekanwebregularfanum.eot');
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 500;
 	src: url('font/IRANYekan/iranyekanwebmediumfanum.eot');
@@ -49,7 +49,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 800;
 	src: url('font/IRANYekan/iranyekanwebextraboldfanum.eot');
@@ -59,7 +59,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 900;
 	src: url('font/IRANYekan/iranyekanwebblackfanum.eot');
@@ -69,7 +69,7 @@
 }
 
 @font-face {
-	font-family: iranyekan;
+	font-family: IRANYekan;
 	font-style: normal;
 	font-weight: 950;
 	src: url('font/IRANYekan/iranyekanwebextrablackfanum.eot');
@@ -78,7 +78,7 @@
 		 url('font/IRANYekan/iranyekanwebextrablackfanum.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSans;
     font-style: normal;
     font-weight: 900;
     src: url('font/IRANSans/IRANSansWeb_Black.eot');
@@ -88,7 +88,7 @@
          url('font/IRANSans/IRANSansWeb_Black.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSans;
     font-style: normal;
     font-weight: bold;
     src: url('font/IRANSans/IRANSansWeb_Bold.eot');
@@ -98,7 +98,7 @@
          url('font/IRANSans/IRANSansWeb_Bold.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSans;
     font-style: normal;
     font-weight: 500;
     src: url('font/IRANSans/IRANSansWeb_Medium.eot');
@@ -108,7 +108,7 @@
          url('font/IRANSans/IRANSansWeb_Medium.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSans;
     font-style: normal;
     font-weight: 300;
     src: url('font/IRANSans/IRANSansWeb_Light.eot');
@@ -118,7 +118,7 @@
          url('font/IRANSans/IRANSansWeb_Light.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSans;
     font-style: normal;
     font-weight: 200;
     src: url('font/IRANSans/IRANSansWeb_UltraLight.eot');
@@ -128,7 +128,7 @@
          url('font/IRANSans/IRANSansWeb_UltraLight.ttf') format('truetype');
 }
 @font-face {
-    font-family: iransans;
+    font-family: IRANSansDN;
     font-style: normal;
     font-weight: normal;
     src: url('font/IRANSans/IRANSansWeb.eot');
@@ -140,7 +140,7 @@
 
 
 @font-face {
-	font-family: iransansdn;
+	font-family: IRANSansDN;
 	font-style: normal;
 	font-weight: bold;
 	src: url('font/IRANSansDN/iransansdnwebbold.eot');
@@ -150,7 +150,7 @@
 		 url('font/IRANSansDN/iransansdnwebbold.ttf') format('truetype');
 }
 @font-face {
-	font-family: iransansdn;
+	font-family: IRANSansDN;
 	font-style: normal;
 	font-weight: 300;
 	src: url('font/IRANSansDN/iransansdnweblight.eot');
@@ -160,7 +160,7 @@
 		 url('font/IRANSansDN/iransansdnweblight.ttf') format('truetype');
 }
 @font-face {
-	font-family: iransansdn;
+	font-family: IRANSansDN;
 	font-style: normal;
 	font-weight: normal;
 	src: url('font/IRANSansDN/iransansdnweb.eot');
@@ -171,7 +171,7 @@
 }
 
 @font-face {
-    font-family: aviny;
+    font-family: Aviny;
     src: url('font/Aviny/Aviny.eot');
     src: url('font/Aviny/Aviny.eot?#iefix') format('embedded-opentype'),
         url('font/Aviny/Aviny.woff2') format('woff2'),
@@ -182,7 +182,7 @@
 }
 
 @font-face {
-    font-family: daal;
+    font-family: Daal;
     src: url('font/Daal/Daal.eot');
     src: url('font/Daal/Daal.eot?#iefix') format('embedded-opentype'),
         url('font/Daal/Daal.woff2') format('woff2'),
@@ -193,7 +193,7 @@
 }
 
 @font-face {
-    font-family: daal;
+    font-family: Daal;
     src: url('font/Daal/Daal-Black.eot');
     src: url('font/Daal/Daal-Black.eot?#iefix') format('embedded-opentype'),
         url('font/Daal/Daal-Black.woff2') format('woff2'),
@@ -204,7 +204,7 @@
 }
 
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Hairline.eot');
     src: url('font/YekanBakh/YekanBakh-Hairline.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Hairline.woff2') format('woff2'),
@@ -214,7 +214,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Thin.eot');
     src: url('font/YekanBakh/YekanBakh-Thin.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Thin.woff2') format('woff2'),
@@ -224,7 +224,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Light.eot');
     src: url('font/YekanBakh/YekanBakh-Light.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Light.woff2') format('woff2'),
@@ -234,7 +234,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Regular.eot');
     src: url('font/YekanBakh/YekanBakh-Regular.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Regular.woff2') format('woff2'),
@@ -244,7 +244,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Medium.eot');
     src: url('font/YekanBakh/YekanBakh-Medium.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Medium.woff2') format('woff2'),
@@ -254,7 +254,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Bold.eot');
     src: url('font/YekanBakh/YekanBakh-Bold.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Bold.woff2') format('woff2'),
@@ -264,7 +264,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Heavy.eot');
     src: url('font/YekanBakh/YekanBakh-Heavy.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Heavy.woff2') format('woff2'),
@@ -274,7 +274,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: yekanbakh;
+    font-family: Yekanbakh;
     src: url('font/YekanBakh/YekanBakh-Fat.eot');
     src: url('font/YekanBakh/YekanBakh-Fat.eot?#iefix') format('embedded-opentype'),
         url('font/YekanBakh/YekanBakh-Fat.woff2') format('woff2'),
@@ -284,7 +284,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: anjoman;
+    font-family: Anjoman;
     src: url('font/Anjoman/AnjomanFaNum-Light.eot');
     src: url('font/Anjoman/AnjomanFaNum-Light.eot?#iefix') format('embedded-opentype'),
         url('font/Anjoman/AnjomanFaNum-Light.woff2') format('woff2'),
@@ -294,7 +294,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: anjoman;
+    font-family: Anjoman;
     src: url('font/Anjoman/AnjomanFaNum-Regular.eot');
     src: url('font/Anjoman/AnjomanFaNum-Regular.eot?#iefix') format('embedded-opentype'),
         url('font/Anjoman/AnjomanFaNum-Regular.woff2') format('woff2'),
@@ -304,7 +304,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: anjoman;
+    font-family: Anjoman;
     src: url('font/Anjoman/AnjomanFaNum-Bold.eot');
     src: url('font/Anjoman/AnjomanFaNum-Bold.eot?#iefix') format('embedded-opentype'),
         url('font/Anjoman/AnjomanFaNum-Bold.woff2') format('woff2'),
