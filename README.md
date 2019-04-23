@@ -30,4 +30,4 @@ Font family:
 
 No traffic limits or throttling. Files are served via Super Fast Global CDN.
 
-<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/d7d36760/font.css); </code>
+<code> @import url(https://cdn.staticaly.com/gh/mohammadr3z/CDN_Font/cb7912bb/font.css); </code>
