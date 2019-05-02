@@ -23,7 +23,7 @@ Font family:
 <b>Githack</b>
 
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/8cd7b457b7ee6d210789d2183ae1e08950ddc801/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/a04a6da27a8cb1af94c0a6b6246c72c6af9d602c/font.css); </code>
 
 -----------------------------------------------------------------------------
 <b>Staticaly</b>
