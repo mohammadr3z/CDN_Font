@@ -7,7 +7,7 @@ Font family:
 
 <b>IRANSans</b>
 
-<b>IRANSansFN</b>
+<b>IRANSansFN</b> (Farsi Number)
 
 <b>IRANSansDN</b>
 
