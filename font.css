@@ -385,3 +385,25 @@
     url('.font/Maneli/Maneli.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
     url('font/Maneli/Maneli.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: Dana;
+    src: url('font/Dana/dana-fanum-bold.eot');
+    src: url('font/Dana/dana-fanum-bold.eot?#iefix') format('embedded-opentype'),
+        url('font/Dana/dana-fanum-bold.woff2') format('woff2'),
+        url('font/Dana/dana-fanum-bold.woff') format('woff'),
+        url('font/Dana/dana-fanum-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Dana;
+    src: url('font/Dana/dana-fanum-regular.eot');
+    src: url('font/Dana/dana-fanum-regular.eot?#iefix') format('embedded-opentype'),
+        url('font/Dana/dana-fanum-regular.woff2') format('woff2'),
+        url('font/Dana/dana-fanum-regular.woff') format('woff'),
+        url('font/Dana/dana-fanum-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
