@@ -374,3 +374,14 @@
     url('.font/IRANSansFN/IRANSansWeb(FaNum).woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
     url('font/IRANSansFN/IRANSansWeb(FaNum).ttf') format('truetype');
 }
+
+@font-face {
+    font-family: Maneli;
+    font-style: normal;
+    font-weight: normal;
+    src: url('font/Maneli/Maneli.eot');
+    src: url('font/Maneli/Maneli.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('font/Maneli/Maneli.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('.font/Maneli/Maneli.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('font/Maneli/Maneli.ttf') format('truetype');
+}
