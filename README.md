@@ -29,11 +29,5 @@ Font family:
 <b>Githack</b>
 
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/7fe8b893034e29be80d0220d9a6790b5e9e2461f/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/9f75159318b55d90a149f8d5f54f14d78b6b65b6/font.css); </code>
 
------------------------------------------------------------------------------
-<b>Staticaly</b>
-
-No traffic limits or throttling. Files are served via Super Fast Global CDN.
-
-<code> @import url(https://cdn.statically.io/gh/mohammadr3z/CDN_Font/master/font.css); </code>
