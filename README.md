@@ -23,6 +23,8 @@ Font family:
 
 <b>Dana</b>
 
+<b>Kalameh</b>
+
 <b>Irancell</b>
 
 <b>Vazir</b>
