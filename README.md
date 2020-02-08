@@ -47,5 +47,5 @@ Font family:
 <b>Githack</b>
 
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/c7394de86a99c85778e2ddb49fc7d10bb42f34d3/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN_Font/aa30dc93b0f2f94ca29521d33a9d32dac88795af/font.css); </code>
 
