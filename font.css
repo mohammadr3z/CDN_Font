@@ -152,112 +152,112 @@
   font-weight: Bold;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-thin.eot');
-    src: url('font/Dana/dana-fanum-thin.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-thin.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-thin.woff') format('woff'),
-        url('font/Dana/dana-fanum-thin.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-thin.eot');
+    src: url('font/DanaFN/dana-fanum-thin.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-thin.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-thin.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-extralight.eot');
-    src: url('font/Dana/dana-fanum-extralight.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-extralight.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-extralight.woff') format('woff'),
-        url('font/Dana/dana-fanum-extralight.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-extralight.eot');
+    src: url('font/DanaFN/dana-fanum-extralight.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-extralight.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-extralight.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-extralight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-light.eot');
-    src: url('font/Dana/dana-fanum-light.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-light.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-light.woff') format('woff'),
-        url('font/Dana/dana-fanum-light.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-light.eot');
+    src: url('font/DanaFN/dana-fanum-light.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-light.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-light.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-regular.eot');
-    src: url('font/Dana/dana-fanum-regular.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-regular.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-regular.woff') format('woff'),
-        url('font/Dana/dana-fanum-regular.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-regular.eot');
+    src: url('font/DanaFN/dana-fanum-regular.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-regular.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-regular.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-medium.eot');
-    src: url('font/Dana/dana-fanum-medium.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-medium.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-medium.woff') format('woff'),
-        url('font/Dana/dana-fanum-medium.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-medium.eot');
+    src: url('font/DanaFN/dana-fanum-medium.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-medium.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-medium.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-demibold.eot');
-    src: url('font/Dana/ddana-fanum-demibold.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-demibold.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-demibold.woff') format('woff'),
-        url('font/Dana/dana-fanum-demibold.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-demibold.eot');
+    src: url('font/DanaFN/ddana-fanum-demibold.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-demibold.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-demibold.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-demibold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-bold.eot');
-    src: url('font/Dana/dana-fanum-bold.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-bold.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-bold.woff') format('woff'),
-        url('font/Dana/dana-fanum-bold.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-bold.eot');
+    src: url('font/DanaFN/dana-fanum-bold.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-bold.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-bold.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-ultrabold.eot');
-    src: url('font/Dana/dana-fanum-ultrabold.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-ultrabold.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-ultrabold.woff') format('woff'),
-        url('font/Dana/dana-fanum-ultrabold.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-ultrabold.eot');
+    src: url('font/DanaFN/dana-fanum-ultrabold.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-ultrabold.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-ultrabold.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-ultrabold.ttf') format('truetype');
     font-weight: 750;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-extrabold.eot');
-    src: url('font/Dana/dana-fanum-extrabold.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-extrabold.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-extrabold.woff') format('woff'),
-        url('font/Dana/dana-fanum-extrabold.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-extrabold.eot');
+    src: url('font/DanaFN/dana-fanum-extrabold.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-extrabold.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-extrabold.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-extrabold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
-    font-family: Dana;
+    font-family: DanaFN;
 	font-display: swap;
-    src: url('font/Dana/dana-fanum-black.eot');
-    src: url('font/Dana/dana-fanum-black.eot?#iefix') format('embedded-opentype'),
-        url('font/Dana/dana-fanum-black.woff2') format('woff2'),
-        url('font/Dana/dana-fanum-black.woff') format('woff'),
-        url('font/Dana/dana-fanum-black.ttf') format('truetype');
+    src: url('font/DanaFN/dana-fanum-black.eot');
+    src: url('font/DanaFN/dana-fanum-black.eot?#iefix') format('embedded-opentype'),
+        url('font/DanaFN/dana-fanum-black.woff2') format('woff2'),
+        url('font/DanaFN/dana-fanum-black.woff') format('woff'),
+        url('font/DanaFN/dana-fanum-black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
